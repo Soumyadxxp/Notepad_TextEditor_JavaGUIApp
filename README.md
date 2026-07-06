@@ -1,8 +1,8 @@
-# 📝 Java Swing Notepad Application
+# Java Swing Notepad Application
 
 <div align="center">
 
-# ✨ Notepad Clone using Java Swing ✨
+# Notepad Clone using Java Swing 
 
 A modern desktop text editor built with **Java Swing** that replicates the core functionality of Windows Notepad while demonstrating GUI programming, event handling, dialogs, menus, and customization features.
 
@@ -15,7 +15,7 @@ A modern desktop text editor built with **Java Swing** that replicates the core 
 
 ---
 
-## 📖 Project Description
+## Project Description
 
 This project is a GUI-based **Notepad Application** developed using **Java Swing**. It provides a clean and user-friendly interface for creating and editing text documents.
 
@@ -44,9 +44,9 @@ The project is designed to help students understand the fundamentals of:
 
 ---
 
-# 🚀 Features
+# Features
 
-## 📂 File Menu
+## File Menu
 
 | Feature       | Description                                      |
 | ------------- | ------------------------------------------------ |
@@ -62,7 +62,7 @@ The project is designed to help students understand the fundamentals of:
 
 ---
 
-## ✏️ Edit Menu
+## Edit Menu
 
 | Feature    | Description                  |
 | ---------- | ---------------------------- |
@@ -83,28 +83,28 @@ The project is designed to help students understand the fundamentals of:
 
 ---
 
-## 🎨 Format Menu
+## Format Menu
 
-### 🖋 Font Customization
+### Font Customization
 
 * Font Family Selection
 * Font Style Selection
 * Font Size Selection
 * Live Preview
 
-### 🌈 Text Color Selection
+### Text Color Selection
 
 * Built-in Color Chooser
 * Instant Text Color Change
 
-### 📄 Wrap Text
+### Wrap Text
 
 * Menu option available
 * Can be implemented in future versions
 
 ---
 
-## 🪟 Window Menu
+## Window Menu
 
 * Window 1
 * Window 2
@@ -114,36 +114,7 @@ The project is designed to help students understand the fundamentals of:
 
 ---
 
-# 🏗 Project Architecture
-
-```text
-guiapplicationpack
-│
-├── MainClass.java
-│
-├── MainFrame.java
-│   ├── Menu Bar
-│   ├── Text Editor
-│   ├── File Menu
-│   ├── Edit Menu
-│   ├── Format Menu
-│   └── Window Menu
-│
-├── FontFrame.java
-│   └── Font Dialog
-│
-├── FontPanel.java
-│   ├── Font Name List
-│   ├── Font Style List
-│   ├── Font Size List
-│   └── Sample Preview
-│
-└── p1.gif
-```
-
----
-
-# 🧩 Class Diagram Overview
+#  Class Diagram Overview
 
 ## MainClass
 
@@ -186,7 +157,7 @@ Responsible for:
 
 ---
 
-# ⌨ Keyboard Shortcuts
+# Keyboard Shortcuts
 
 | Shortcut | Action           |
 | -------- | ---------------- |
@@ -196,7 +167,7 @@ Responsible for:
 
 ---
 
-# 🖼 User Interface Components
+# User Interface Components
 
 ### Swing Components Used
 
@@ -216,7 +187,7 @@ Responsible for:
 
 ---
 
-# ⚙ Technologies Used
+# Technologies Used
 
 | Technology | Purpose          |
 | ---------- | ---------------- |
@@ -227,7 +198,7 @@ Responsible for:
 
 ---
 
-# ▶ Installation & Execution
+#  Installation & Execution
 
 ## Requirements
 
@@ -251,10 +222,6 @@ java MainClass
 ```
 
 ---
-
-# 📸 Screenshots
-
-Add screenshots here after running the project.
 
 ### Main Editor Window
 
@@ -289,7 +256,7 @@ Add screenshots here after running the project.
 
 ---
 
-# 🎯 Learning Objectives
+# Learning Objectives
 
 After completing this project, students will gain knowledge of:
 
@@ -309,11 +276,9 @@ After completing this project, students will gain knowledge of:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Soumyadeep Basu**
-
-Java Swing Desktop Application Project
 
 ---
 
